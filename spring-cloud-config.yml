@@ -1,2 +1,2 @@
 config:
-  info: "spring-cloud-config,version=v4"
+  info: "spring-cloud-config,version=v5"
